@@ -1,3 +1,4 @@
-# Data Scientist
 
-### Projects
+# Projects
+
+# [Project 1: Credit Risk Assessment Model]
