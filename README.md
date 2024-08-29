@@ -1,9 +1,16 @@
 
 # Projects
 
-# [Project 1: Credit Risk Assessment Using a Logistic Regression Model](https://github.com/DeborahAywa/Credit-Risk-Assessment/blob/main/Credit_Risk_Assessment_Using_Logistic_Regression_.ipynb)
-## This project focuses on developing a data-driven credit risk model to accurately predict the likelihood of loan defaults. By conducting a thorough credit risk assessment, lenders and financial institutions can make informed decisions about whether to grant credit and if so, under what terms and conditions, thereby mitigating potential financial losses and ensuring the stability of their lending portfolios. By leveraging historical customer data, the model enhances the accuracy of creditworthiness predictions, leading to a higher-quality loan portfolio.
-1. Data was taken from Amdari's Apex Bank Dataset
-2. R programming language is used
+# [Project 1: Credit Risk Assessment With Logistic Regression Model](https://github.com/DeborahAywa/Credit-Risk-Assessment/blob/main/Credit_Risk_Assessment_Using_Logistic_Regression_.ipynb)
+## This project builds a Logistic Regression model to predict loan defaults using historical customer data from Amdari's Apex Bank Dataset.
+### Key Features
+1. Predicts borrower's creditworthiness using a machine learning model.
+2. Improves accuracy of loan default predictions compared to traditional methods.
+3. Implemented in R programming language using packages like caret, tidymodels, and dplyr.
+### Project Structure
+1. Exploratory Data Analysis: Summary statistics of the dataset, visualizations to understand data distribution, key insights from the data
+2. Model Development: Splitting the dataset into training and testing sets and training the credit risk prediction model.
+3. Model Evaluation: Evaluate the model's performance on the test dataset, utilizing confusion matrix and classification report
+
 
  
